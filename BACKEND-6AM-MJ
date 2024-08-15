@@ -1,7 +1,0 @@
-echo "# BACKEND-MJ-6AM" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/SebastiianCp21/BACKEND-MJ-6AM.git
-git push -u origin main
